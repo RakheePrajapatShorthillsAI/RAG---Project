@@ -1,0 +1,895 @@
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat2002@gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&list=categorymembers&cmtitle=Category:Machine learning&cmlimit=500
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (your@email.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&list=categorymembers&cmtitle=Category:Machine learning&cmlimit=500
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian learning mechanisms&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian learning mechanisms&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Outline of machine learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Outline of machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=80 Million Tiny Images&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=80 Million Tiny Images&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=A Logical Calculus of the Ideas Immanent in Nervous Activity&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=A Logical Calculus of the Ideas Immanent in Nervous Activity&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Accelerated Linear Algebra&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Accelerated Linear Algebra&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Action model learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Action model learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Active learning (machine learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Active learning (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Adversarial machine learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Adversarial machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=AI/ML Development Platform&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=AI/ML Development Platform&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=AIOps&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=AIOps&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=AIXI&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=AIXI&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithm selection&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithm selection&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithmic bias&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithmic bias&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithmic inference&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithmic inference&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithmic party platforms in the United States&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithmic party platforms in the United States&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Anomaly detection&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Anomaly detection&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Aporia (company)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Aporia (company)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Apprenticeship learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Apprenticeship learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Artificial intelligence in hiring&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Artificial intelligence in hiring&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Astrostatistics&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Astrostatistics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Attention (machine learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Attention (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Audio inpainting&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Audio inpainting&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Automated decision-making&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Automated decision-making&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Automated machine learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Automated machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Automation in construction&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Automation in construction&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bag-of-words model&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bag-of-words model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Ball tree&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Ball tree&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Base rate&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Base rate&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian interpretation of kernel regularization&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian interpretation of kernel regularization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian optimization&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian optimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian regret&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian regret&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian structural time series&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian structural time series&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bias–variance tradeoff&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bias–variance tradeoff&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Binary classification&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Binary classification&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bioserenity&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bioserenity&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bradley–Terry model&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bradley–Terry model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Category utility&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category utility&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=CIML community portal&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=CIML community portal&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Claude (language model)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Claude (language model)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cognitive robotics&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cognitive robotics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Concept drift&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Concept drift&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Conditional random field&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Conditional random field&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Confusion matrix&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Confusion matrix&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Contrastive Language-Image Pre-training&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Contrastive Language-Image Pre-training&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cost-sensitive machine learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cost-sensitive machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Coupled pattern learner&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Coupled pattern learner&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cross-entropy method&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cross-entropy method&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cross-validation (statistics)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cross-validation (statistics)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Curse of dimensionality&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Curse of dimensionality&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data augmentation&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data augmentation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data exploration&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data exploration&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data preprocessing&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data preprocessing&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data-driven astronomy&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Astroinformatics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data-driven model&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data-driven model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Decision list&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Decision list&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Decision tree pruning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Decision tree pruning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Deep Tomographic Reconstruction&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Deep Tomographic Reconstruction&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Developmental robotics&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Developmental robotics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Digital signal processing and machine learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Digital signal processing and machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Discovery system (AI research)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Discovery system (AI research)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Document classification&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Document classification&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Domain adaptation&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Domain adaptation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Double descent&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Double descent&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Eager learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Eager learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=EfficientNet&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=EfficientNet&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=ELMo&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=ELMo&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=EM algorithm and GMM model&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=EM algorithm and GMM model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Embedding (machine learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Embedding (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Empirical dynamic modeling&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Empirical dynamic modeling&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Empirical risk minimization&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Empirical risk minimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Energy-based model&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Energy-based model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Equalized odds&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Equalized odds&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Evaluation of binary classifiers&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Evaluation of binary classifiers&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Evolvability (computer science)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Evolvability (computer science)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Expectation propagation&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Expectation propagation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Explanation-based learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Explanation-based learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Exploration–exploitation dilemma&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Exploration–exploitation dilemma&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Fairness (machine learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Fairness (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature (machine learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature engineering&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature engineering&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature hashing&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature hashing&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature scaling&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature scaling&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Federated learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Federated learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Fine-tuning (deep learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Fine-tuning (deep learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Flow-based generative model&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Flow-based generative model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Flux (machine-learning framework)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Flux (machine-learning framework)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Force control&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Force control&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Formal concept analysis&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Formal concept analysis&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Generative artificial intelligence&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Generative artificial intelligence&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Generative model&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Generative model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Geometric feature learning&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Geometric feature learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Glossary of artificial intelligence&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Glossary of artificial intelligence&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Granular computing&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Granular computing&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Grokking (machine learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Grokking (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hallucination (artificial intelligence)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hallucination (artificial intelligence)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hidden layer&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hidden layer&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hierarchical navigable small world&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hierarchical navigable small world&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hierarchical Risk Parity&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hierarchical Risk Parity&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Highway network&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Highway network&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hugging Face&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hugging Face&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Human-in-the-loop&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Human-in-the-loop&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hyperparameter (machine learning)&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hyperparameter (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hyperparameter optimization&explaintext=1&exsectionformat=wiki
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hyperparameter optimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (your@email.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Machine_learning failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Generative_adversarial_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Generative_adversarial_networks failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Transformer_(machine_learning_model)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Transformer_(machine_learning_model) failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Convolutional_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Convolutional_neural_networks failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat20022gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Machine_learning failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Generative_adversarial_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Generative_adversarial_networks failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Transformer_(machine_learning_model)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Transformer_(machine_learning_model) failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Convolutional_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Category Convolutional_neural_networks failed: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (your@email.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Machine_learning: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning_algorithms&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Machine_learning_algorithms: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Generative_adversarial_network&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Generative_adversarial_network: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Convolutional_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Convolutional_neural_networks: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat2002@gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Machine_learning: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning_algorithms&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Machine_learning_algorithms: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Generative_adversarial_network&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Generative_adversarial_network: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Convolutional_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Convolutional_neural_networks: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat2002@gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Machine_learning: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning_algorithms&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Machine_learning_algorithms: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Generative_adversarial_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Generative_adversarial_networks: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Convolutional_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+ERROR:root:Error in Convolutional_neural_networks: Session.request() got an unexpected keyword argument 'session'
+INFO:wikipediaapi:Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat2002@gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Transformer_models&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+WARNING:root:Category Transformer_models not found.
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Generative_adversarial_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+WARNING:root:Category Generative_adversarial_networks not found.
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Convolutional_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+WARNING:root:Category Convolutional_neural_networks not found.
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Reinforcement_learning_algorithms&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+WARNING:root:Category Reinforcement_learning_algorithms not found.
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning_optimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+WARNING:root:Category Machine_learning_optimization not found.
+INFO:wikipediaapi:Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Recurrent_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+WARNING:root:Category Recurrent_neural_networks not found.
+INFO:root:Saved 0 articles to ml_articles.txt.
+2025-03-12 16:59:40,307 - Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat2002@gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+2025-03-12 16:59:40,307 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Transformer_models&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:01:48,916 - Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat2002@gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+2025-03-12 17:01:48,916 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Transformer_models&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:01:49,598 - Category Transformer_models not found.
+2025-03-12 17:01:49,598 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Generative_adversarial_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:01:49,955 - Category Generative_adversarial_networks not found.
+2025-03-12 17:01:49,955 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Convolutional_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:01:50,325 - Category Convolutional_neural_networks not found.
+2025-03-12 17:01:50,325 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Reinforcement_learning_algorithms&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:01:50,673 - Category Reinforcement_learning_algorithms not found.
+2025-03-12 17:01:50,673 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning_optimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:01:51,024 - Category Machine_learning_optimization not found.
+2025-03-12 17:01:51,025 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Recurrent_neural_networks&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:01:51,380 - Category Recurrent_neural_networks not found.
+2025-03-12 17:01:51,381 - Saved 0 articles to ml_articles.txt.
+2025-03-12 17:06:03,776 - Wikipedia: language=en, user_agent: MLScraper/1.0 (rakheeprajapat2002@gmail.com) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=ExtractFormat.WIKI
+2025-03-12 17:06:03,777 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category:Machine_learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:04,455 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&list=categorymembers&cmtitle=Category:Machine learning&cmlimit=500
+2025-03-12 17:06:05,102 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian learning mechanisms&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:05,465 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian learning mechanisms&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:05,799 - Scraped: Bayesian learning mechanisms
+2025-03-12 17:06:07,301 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:07,960 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:08,789 - Scraped: Machine learning
+2025-03-12 17:06:10,290 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Outline of machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:10,713 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Outline of machine learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:11,350 - Scraped: Outline of machine learning
+2025-03-12 17:06:12,852 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=80 Million Tiny Images&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:13,209 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=80 Million Tiny Images&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:13,542 - Scraped: 80 Million Tiny Images
+2025-03-12 17:06:15,044 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=A Logical Calculus of the Ideas Immanent in Nervous Activity&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:15,398 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=A Logical Calculus of the Ideas Immanent in Nervous Activity&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:15,746 - Scraped: A Logical Calculus of the Ideas Immanent in Nervous Activity
+2025-03-12 17:06:17,248 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Accelerated Linear Algebra&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:17,695 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Accelerated Linear Algebra&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:18,028 - Scraped: Accelerated Linear Algebra
+2025-03-12 17:06:19,531 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Action model learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:19,949 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Action model learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:20,287 - Scraped: Action model learning
+2025-03-12 17:06:21,788 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Active learning (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:22,171 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Active learning (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:22,611 - Scraped: Active learning (machine learning)
+2025-03-12 17:06:24,114 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Adversarial machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:24,500 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Adversarial machine learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:25,276 - Scraped: Adversarial machine learning
+2025-03-12 17:06:26,778 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=AI/ML Development Platform&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:27,142 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=AI/ML Development Platform&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:27,476 - Scraped: AI/ML Development Platform
+2025-03-12 17:06:28,977 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=AIOps&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:29,331 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=AIOps&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:29,677 - Scraped: AIOps
+2025-03-12 17:06:31,179 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=AIXI&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:31,579 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=AIXI&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:32,116 - Scraped: AIXI
+2025-03-12 17:06:33,618 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithm selection&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:33,992 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithm selection&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:34,520 - Scraped: Algorithm selection
+2025-03-12 17:06:36,023 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithmic bias&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:36,409 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithmic bias&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:37,183 - Scraped: Algorithmic bias
+2025-03-12 17:06:38,685 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithmic inference&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:39,097 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithmic inference&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:39,713 - Scraped: Algorithmic inference
+2025-03-12 17:06:41,215 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Algorithmic party platforms in the United States&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:41,568 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Algorithmic party platforms in the United States&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:41,907 - Scraped: Algorithmic party platforms in the United States
+2025-03-12 17:06:43,409 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Anomaly detection&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:43,808 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Anomaly detection&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:44,423 - Scraped: Anomaly detection
+2025-03-12 17:06:45,925 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Aporia (company)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:46,369 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Aporia (company)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:46,712 - Scraped: Aporia (company)
+2025-03-12 17:06:48,213 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Apprenticeship learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:48,568 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Apprenticeship learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:48,905 - Scraped: Apprenticeship learning
+2025-03-12 17:06:50,407 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Artificial intelligence in hiring&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:50,873 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Artificial intelligence in hiring&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:51,489 - Scraped: Artificial intelligence in hiring
+2025-03-12 17:06:52,991 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Astrostatistics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:53,376 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Astrostatistics&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:53,741 - Scraped: Astrostatistics
+2025-03-12 17:06:55,242 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Attention (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:55,602 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Attention (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:56,341 - Scraped: Attention (machine learning)
+2025-03-12 17:06:57,842 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Audio inpainting&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:06:58,222 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Audio inpainting&explaintext=1&exsectionformat=wiki
+2025-03-12 17:06:58,565 - Scraped: Audio inpainting
+2025-03-12 17:07:00,067 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Automated decision-making&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:00,436 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Automated decision-making&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:00,979 - Scraped: Automated decision-making
+2025-03-12 17:07:02,481 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Automated machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:02,957 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Automated machine learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:03,303 - Scraped: Automated machine learning
+2025-03-12 17:07:04,805 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Automation in construction&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:05,312 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Automation in construction&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:05,650 - Scraped: Automation in construction
+2025-03-12 17:07:07,151 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bag-of-words model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:07,565 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bag-of-words model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:07,903 - Scraped: Bag-of-words model
+2025-03-12 17:07:09,405 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Ball tree&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:09,794 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Ball tree&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:10,229 - Scraped: Ball tree
+2025-03-12 17:07:11,731 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Base rate&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:12,096 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Base rate&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:12,481 - Scraped: Base rate
+2025-03-12 17:07:13,983 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian interpretation of kernel regularization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:14,375 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian interpretation of kernel regularization&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:14,940 - Scraped: Bayesian interpretation of kernel regularization
+2025-03-12 17:07:16,442 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian optimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:16,884 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian optimization&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:17,222 - Scraped: Bayesian optimization
+2025-03-12 17:07:18,724 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian regret&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:19,084 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian regret&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:19,444 - Scraped: Bayesian regret
+2025-03-12 17:07:20,946 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bayesian structural time series&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:21,390 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bayesian structural time series&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:22,005 - Scraped: Bayesian structural time series
+2025-03-12 17:07:23,507 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bias–variance tradeoff&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:23,880 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bias–variance tradeoff&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:24,669 - Scraped: Bias–variance tradeoff
+2025-03-12 17:07:26,171 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Binary classification&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:26,552 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Binary classification&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:26,896 - Scraped: Binary classification
+2025-03-12 17:07:28,399 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bioserenity&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:28,782 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bioserenity&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:29,114 - Scraped: Bioserenity
+2025-03-12 17:07:30,616 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Bradley–Terry model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:31,118 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Bradley–Terry model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:31,939 - Scraped: Bradley–Terry model
+2025-03-12 17:07:33,441 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Category utility&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:33,883 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Category utility&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:34,704 - Scraped: Category utility
+2025-03-12 17:07:36,206 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=CIML community portal&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:36,647 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=CIML community portal&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:36,996 - Scraped: CIML community portal
+2025-03-12 17:07:38,498 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Claude (language model)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:38,899 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Claude (language model)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:39,242 - Scraped: Claude (language model)
+2025-03-12 17:07:40,744 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cognitive robotics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:41,254 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cognitive robotics&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:41,590 - Scraped: Cognitive robotics
+2025-03-12 17:07:43,092 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Concept drift&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:43,508 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Concept drift&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:44,241 - Scraped: Concept drift
+2025-03-12 17:07:45,743 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Conditional random field&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:46,136 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Conditional random field&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:46,683 - Scraped: Conditional random field
+2025-03-12 17:07:48,185 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Confusion matrix&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:48,628 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Confusion matrix&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:48,971 - Scraped: Confusion matrix
+2025-03-12 17:07:50,473 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Contrastive Language-Image Pre-training&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:50,843 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Contrastive Language-Image Pre-training&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:51,185 - Scraped: Contrastive Language-Image Pre-training
+2025-03-12 17:07:52,687 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cost-sensitive machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:53,134 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cost-sensitive machine learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:53,468 - Scraped: Cost-sensitive machine learning
+2025-03-12 17:07:54,969 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Coupled pattern learner&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:55,387 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Coupled pattern learner&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:55,729 - Scraped: Coupled pattern learner
+2025-03-12 17:07:57,231 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cross-entropy method&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:07:57,742 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cross-entropy method&explaintext=1&exsectionformat=wiki
+2025-03-12 17:07:58,084 - Scraped: Cross-entropy method
+2025-03-12 17:07:59,586 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Cross-validation (statistics)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:00,097 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Cross-validation (statistics)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:00,642 - Scraped: Cross-validation (statistics)
+2025-03-12 17:08:02,143 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Curse of dimensionality&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:02,542 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Curse of dimensionality&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:03,103 - Scraped: Curse of dimensionality
+2025-03-12 17:08:04,605 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data augmentation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:04,975 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data augmentation&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:05,422 - Scraped: Data augmentation
+2025-03-12 17:08:06,925 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data exploration&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:07,285 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data exploration&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:07,613 - Scraped: Data exploration
+2025-03-12 17:08:09,115 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data preprocessing&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:09,518 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data preprocessing&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:09,854 - Scraped: Data preprocessing
+2025-03-12 17:08:11,356 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data-driven astronomy&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:11,736 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Astroinformatics&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:12,181 - Scraped: Astroinformatics
+2025-03-12 17:08:13,683 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Data-driven model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:14,038 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Data-driven model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:14,433 - Scraped: Data-driven model
+2025-03-12 17:08:15,935 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Decision list&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:16,378 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Decision list&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:16,711 - Scraped: Decision list
+2025-03-12 17:08:18,213 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Decision tree pruning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:19,038 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Decision tree pruning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:19,861 - Scraped: Decision tree pruning
+2025-03-12 17:08:21,363 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Deep Tomographic Reconstruction&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:21,901 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Deep Tomographic Reconstruction&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:22,232 - Scraped: Deep Tomographic Reconstruction
+2025-03-12 17:08:23,734 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Developmental robotics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:24,135 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Developmental robotics&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:24,777 - Scraped: Developmental robotics
+2025-03-12 17:08:26,279 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Digital signal processing and machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:26,656 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Digital signal processing and machine learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:26,996 - Scraped: Digital signal processing and machine learning
+2025-03-12 17:08:28,497 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Discovery system (AI research)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:28,981 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Discovery system (AI research)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:29,314 - Scraped: Discovery system (AI research)
+2025-03-12 17:08:30,816 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Document classification&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:31,207 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Document classification&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:31,545 - Scraped: Document classification
+2025-03-12 17:08:33,047 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Domain adaptation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:33,425 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Domain adaptation&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:33,787 - Scraped: Domain adaptation
+2025-03-12 17:08:35,289 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Double descent&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:35,675 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Double descent&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:36,859 - Scraped: Double descent
+2025-03-12 17:08:38,361 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Eager learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:38,738 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Eager learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:39,100 - Scraped: Eager learning
+2025-03-12 17:08:40,602 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=EfficientNet&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:41,056 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=EfficientNet&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:41,380 - Scraped: EfficientNet
+2025-03-12 17:08:42,881 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=ELMo&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:43,719 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=ELMo&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:44,046 - Scraped: ELMo
+2025-03-12 17:08:45,548 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=EM algorithm and GMM model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:45,972 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=EM algorithm and GMM model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:46,587 - Scraped: EM algorithm and GMM model
+2025-03-12 17:08:48,089 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Embedding (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:48,534 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Embedding (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:48,875 - Scraped: Embedding (machine learning)
+2025-03-12 17:08:50,376 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Empirical dynamic modeling&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:50,755 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Empirical dynamic modeling&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:51,402 - Scraped: Empirical dynamic modeling
+2025-03-12 17:08:52,904 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Empirical risk minimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:53,345 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Empirical risk minimization&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:53,717 - Scraped: Empirical risk minimization
+2025-03-12 17:08:55,219 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Energy-based model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:55,611 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Energy-based model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:56,214 - Scraped: Energy-based model
+2025-03-12 17:08:57,716 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Equalized odds&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:08:58,157 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Equalized odds&explaintext=1&exsectionformat=wiki
+2025-03-12 17:08:58,484 - Scraped: Equalized odds
+2025-03-12 17:08:59,986 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Evaluation of binary classifiers&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:00,357 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Evaluation of binary classifiers&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:00,926 - Scraped: Evaluation of binary classifiers
+2025-03-12 17:09:02,428 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Evolvability (computer science)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:02,869 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Evolvability (computer science)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:03,399 - Scraped: Evolvability (computer science)
+2025-03-12 17:09:04,900 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Expectation propagation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:05,326 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Expectation propagation&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:05,665 - Scraped: Expectation propagation
+2025-03-12 17:09:07,167 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Explanation-based learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:07,530 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Explanation-based learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:07,990 - Scraped: Explanation-based learning
+2025-03-12 17:09:09,492 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Exploration–exploitation dilemma&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:09,875 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Exploration–exploitation dilemma&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:10,405 - Scraped: Exploration–exploitation dilemma
+2025-03-12 17:09:11,906 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Fairness (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:12,268 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Fairness (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:13,020 - Scraped: Fairness (machine learning)
+2025-03-12 17:09:14,522 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:14,912 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:15,362 - Scraped: Feature (machine learning)
+2025-03-12 17:09:16,864 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature engineering&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:17,307 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature engineering&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:17,640 - Scraped: Feature engineering
+2025-03-12 17:09:19,142 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature hashing&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:19,521 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature hashing&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:20,177 - Scraped: Feature hashing
+2025-03-12 17:09:21,679 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:22,121 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:22,674 - Scraped: Feature learning
+2025-03-12 17:09:24,176 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Feature scaling&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:24,578 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Feature scaling&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:25,192 - Scraped: Feature scaling
+2025-03-12 17:09:26,693 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Federated learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:27,073 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Federated learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:27,620 - Scraped: Federated learning
+2025-03-12 17:09:29,121 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Fine-tuning (deep learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:29,481 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Fine-tuning (deep learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:29,818 - Scraped: Fine-tuning (deep learning)
+2025-03-12 17:09:31,320 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Flow-based generative model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:31,712 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Flow-based generative model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:32,450 - Scraped: Flow-based generative model
+2025-03-12 17:09:33,951 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Flux (machine-learning framework)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:34,409 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Flux (machine-learning framework)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:34,747 - Scraped: Flux (machine-learning framework)
+2025-03-12 17:09:36,249 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Force control&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:36,661 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Force control&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:37,277 - Scraped: Force control
+2025-03-12 17:09:38,778 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Formal concept analysis&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:39,220 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Formal concept analysis&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:39,776 - Scraped: Formal concept analysis
+2025-03-12 17:09:41,278 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Generative artificial intelligence&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:41,709 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Generative artificial intelligence&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:42,342 - Scraped: Generative artificial intelligence
+2025-03-12 17:09:43,844 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Generative model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:44,238 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Generative model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:44,853 - Scraped: Generative model
+2025-03-12 17:09:46,354 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Geometric feature learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:46,799 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Geometric feature learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:47,414 - Scraped: Geometric feature learning
+2025-03-12 17:09:48,916 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Glossary of artificial intelligence&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:49,359 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Glossary of artificial intelligence&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:50,359 - Scraped: Glossary of artificial intelligence
+2025-03-12 17:09:51,861 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Granular computing&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:52,241 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Granular computing&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:53,048 - Scraped: Granular computing
+2025-03-12 17:09:54,550 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Grokking (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:54,913 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Grokking (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:55,245 - Scraped: Grokking (machine learning)
+2025-03-12 17:09:56,747 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hallucination (artificial intelligence)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:09:57,122 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hallucination (artificial intelligence)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:09:58,464 - Scraped: Hallucination (artificial intelligence)
+2025-03-12 17:09:59,966 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hidden layer&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:00,330 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hidden layer&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:00,727 - Scraped: Hidden layer
+2025-03-12 17:10:02,229 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hierarchical navigable small world&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:02,608 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hierarchical navigable small world&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:02,979 - Scraped: Hierarchical navigable small world
+2025-03-12 17:10:04,480 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hierarchical Risk Parity&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:04,860 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hierarchical Risk Parity&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:05,191 - Scraped: Hierarchical Risk Parity
+2025-03-12 17:10:06,693 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Highway network&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:07,048 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Highway network&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:07,383 - Scraped: Highway network
+2025-03-12 17:10:08,885 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hugging Face&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:09,266 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hugging Face&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:09,739 - Scraped: Hugging Face
+2025-03-12 17:10:11,241 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Human-in-the-loop&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:11,640 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Human-in-the-loop&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:12,093 - Scraped: Human-in-the-loop
+2025-03-12 17:10:13,595 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hyperparameter (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:13,969 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hyperparameter (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:14,311 - Scraped: Hyperparameter (machine learning)
+2025-03-12 17:10:15,813 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Hyperparameter optimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:16,203 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Hyperparameter optimization&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:16,563 - Scraped: Hyperparameter optimization
+2025-03-12 17:10:18,065 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=In-context learning (natural language processing)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:18,544 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Prompt engineering&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:19,193 - Scraped: Prompt engineering
+2025-03-12 17:10:20,695 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Inauthentic text&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:21,069 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Inauthentic text&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:21,513 - Scraped: Inauthentic text
+2025-03-12 17:10:23,015 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Inception score&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:24,278 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Inception score&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:24,802 - Scraped: Inception score
+2025-03-12 17:10:26,304 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Inductive bias&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:26,736 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Inductive bias&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:27,079 - Scraped: Inductive bias
+2025-03-12 17:10:28,581 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Inductive probability&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:28,956 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Inductive probability&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:30,117 - Scraped: Inductive probability
+2025-03-12 17:10:31,619 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Inductive programming&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:32,003 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Inductive programming&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:32,341 - Scraped: Inductive programming
+2025-03-12 17:10:33,843 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Inferential theory of learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:34,232 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Inferential theory of learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:34,620 - Scraped: Inferential theory of learning
+2025-03-12 17:10:36,122 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Instance selection&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:36,566 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Instance selection&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:36,909 - Scraped: Instance selection
+2025-03-12 17:10:38,411 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Instance-based learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:41,482 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Instance-based learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:41,810 - Scraped: Instance-based learning
+2025-03-12 17:10:43,312 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Intelligent automation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:43,735 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Intelligent automation&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:44,070 - Scraped: Intelligent automation
+2025-03-12 17:10:45,572 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Isotropic position&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:45,958 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Isotropic position&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:46,366 - Scraped: Isotropic position
+2025-03-12 17:10:47,868 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=JAX (software)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:48,222 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=JAX (software)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:48,584 - Scraped: JAX (software)
+2025-03-12 17:10:50,086 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Journal of Machine Learning Research&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:50,453 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Journal of Machine Learning Research&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:50,788 - Scraped: Journal of Machine Learning Research
+2025-03-12 17:10:52,290 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Kernel density estimation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:52,744 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Kernel density estimation&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:53,361 - Scraped: Kernel density estimation
+2025-03-12 17:10:54,863 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Kernel embedding of distributions&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:55,254 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Kernel embedding of distributions&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:56,336 - Scraped: Kernel embedding of distributions
+2025-03-12 17:10:57,838 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Knowledge graph embedding&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:10:58,230 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Knowledge graph embedding&explaintext=1&exsectionformat=wiki
+2025-03-12 17:10:58,892 - Scraped: Knowledge graph embedding
+2025-03-12 17:11:00,393 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Knowledge integration&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:00,765 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Knowledge integration&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:01,116 - Scraped: Knowledge integration
+2025-03-12 17:11:02,618 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Labeled data&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:03,089 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Labeled data&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:03,824 - Scraped: Labeled data
+2025-03-12 17:11:05,326 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Lazy learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:05,742 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Lazy learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:06,089 - Scraped: Lazy learning
+2025-03-12 17:11:07,591 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Leakage (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:07,958 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Leakage (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:08,413 - Scraped: Leakage (machine learning)
+2025-03-12 17:11:09,915 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Learnable function class&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:10,276 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Learnable function class&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:10,871 - Scraped: Learnable function class
+2025-03-12 17:11:12,374 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Learning automaton&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:12,816 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Learning automaton&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:13,159 - Scraped: Learning automaton
+2025-03-12 17:11:14,661 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Learning curve (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:15,069 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Learning curve (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:15,423 - Scraped: Learning curve (machine learning)
+2025-03-12 17:11:16,925 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Learning rate&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:17,322 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Learning rate&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:17,674 - Scraped: Learning rate
+2025-03-12 17:11:19,176 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Learning to rank&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:19,688 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Learning to rank&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:20,033 - Scraped: Learning to rank
+2025-03-12 17:11:21,535 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Learning with errors&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:21,930 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Learning with errors&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:22,280 - Scraped: Learning with errors
+2025-03-12 17:11:23,782 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Life-time of correlation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:24,456 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Life-time of correlation&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:25,654 - Scraped: Life-time of correlation
+2025-03-12 17:11:27,155 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Linear predictor function&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:27,525 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Linear predictor function&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:28,059 - Scraped: Linear predictor function
+2025-03-12 17:11:29,561 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Linear separability&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:29,947 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Linear separability&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:30,533 - Scraped: Linear separability
+2025-03-12 17:11:32,035 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Local case-control sampling&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:32,477 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Local case-control sampling&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:32,844 - Scraped: Local case-control sampling
+2025-03-12 17:11:34,346 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Lottery ticket hypothesis&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:34,832 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Lottery ticket hypothesis&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:35,168 - Scraped: Lottery ticket hypothesis
+2025-03-12 17:11:36,670 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Lyra (codec)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:37,066 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Lyra (codec)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:37,495 - Scraped: Lyra (codec)
+2025-03-12 17:11:38,997 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=M-theory (learning framework)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:39,441 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=M-theory (learning framework)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:40,015 - Scraped: M-theory (learning framework)
+2025-03-12 17:11:41,517 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine Learning (journal)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:41,899 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine Learning (journal)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:42,239 - Scraped: Machine Learning (journal)
+2025-03-12 17:11:43,741 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine learning control&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:44,129 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine learning control&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:44,467 - Scraped: Machine learning control
+2025-03-12 17:11:45,969 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine learning in bioinformatics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:46,344 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine learning in bioinformatics&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:47,118 - Scraped: Machine learning in bioinformatics
+2025-03-12 17:11:48,620 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine learning in earth sciences&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:49,314 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine learning in earth sciences&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:49,682 - Scraped: Machine learning in earth sciences
+2025-03-12 17:11:51,184 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine learning in physics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:51,626 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine learning in physics&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:51,959 - Scraped: Machine learning in physics
+2025-03-12 17:11:53,461 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine learning in video games&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:53,879 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine learning in video games&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:54,495 - Scraped: Machine learning in video games
+2025-03-12 17:11:55,997 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine unlearning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:56,367 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine unlearning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:56,707 - Scraped: Machine unlearning
+2025-03-12 17:11:58,209 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Machine-learned interatomic potential&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:11:58,609 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Machine-learned interatomic potential&explaintext=1&exsectionformat=wiki
+2025-03-12 17:11:58,999 - Scraped: Machine-learned interatomic potential
+2025-03-12 17:12:00,501 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Manifold hypothesis&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:00,945 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Manifold hypothesis&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:01,295 - Scraped: Manifold hypothesis
+2025-03-12 17:12:02,798 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Manifold regularization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:03,163 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Manifold regularization&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:03,958 - Scraped: Manifold regularization
+2025-03-12 17:12:05,460 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=The Master Algorithm&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:05,963 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=The Master Algorithm&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:06,307 - Scraped: The Master Algorithm
+2025-03-12 17:12:07,809 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Matchbox Educable Noughts and Crosses Engine&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:08,178 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Matchbox Educable Noughts and Crosses Engine&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:08,519 - Scraped: Matchbox Educable Noughts and Crosses Engine
+2025-03-12 17:12:10,020 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Matrix regularization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:10,388 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Matrix regularization&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:11,727 - Scraped: Matrix regularization
+2025-03-12 17:12:13,229 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Maximum inner-product search&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:13,597 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Maximum inner-product search&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:13,939 - Scraped: Maximum inner-product search
+2025-03-12 17:12:15,442 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Meta-learning (computer science)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:15,803 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Meta-learning (computer science)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:16,818 - Scraped: Meta-learning (computer science)
+2025-03-12 17:12:18,320 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=MLOps&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:18,714 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=MLOps&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:19,787 - Scraped: MLOps
+2025-03-12 17:12:21,288 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=MobileNet&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:21,733 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=MobileNet&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:22,070 - Scraped: MobileNet
+2025-03-12 17:12:23,572 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Mode collapse&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:23,938 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Mode collapse&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:24,267 - Scraped: Mode collapse
+2025-03-12 17:12:25,769 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Model compression&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:26,122 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Model compression&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:26,487 - Scraped: Model compression
+2025-03-12 17:12:27,989 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Mountain car problem&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:28,350 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Mountain car problem&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:28,798 - Scraped: Mountain car problem
+2025-03-12 17:12:30,301 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multi-armed bandit&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:30,692 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multi-armed bandit&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:31,489 - Scraped: Multi-armed bandit
+2025-03-12 17:12:32,991 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multi-task learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:33,406 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multi-task learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:34,149 - Scraped: Multi-task learning
+2025-03-12 17:12:35,651 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multimodal sentiment analysis&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:36,068 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multimodal sentiment analysis&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:36,729 - Scraped: Multimodal sentiment analysis
+2025-03-12 17:12:38,231 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multiple instance learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:38,618 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multiple instance learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:38,978 - Scraped: Multiple instance learning
+2025-03-12 17:12:40,480 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multiple-instance learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:40,842 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multiple instance learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:41,395 - Scraped: Multiple instance learning
+2025-03-12 17:12:42,898 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multiplicative weight update method&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:43,261 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multiplicative weight update method&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:44,045 - Scraped: Multiplicative weight update method
+2025-03-12 17:12:45,547 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multitask optimization&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:45,924 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multitask optimization&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:46,273 - Scraped: Multitask optimization
+2025-03-12 17:12:47,775 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Multivariate adaptive regression spline&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:48,255 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Multivariate adaptive regression spline&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:48,870 - Scraped: Multivariate adaptive regression spline
+2025-03-12 17:12:50,373 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Native-language identification&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:50,814 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Native-language identification&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:51,155 - Scraped: Native-language identification
+2025-03-12 17:12:52,657 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Nature Machine Intelligence&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:53,066 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Nature Machine Intelligence&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:53,393 - Scraped: Nature Machine Intelligence
+2025-03-12 17:12:54,895 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Neural modeling fields&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:55,255 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Neural modeling fields&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:55,834 - Scraped: Neural modeling fields
+2025-03-12 17:12:57,336 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Neural network quantum states&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:57,699 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Neural network quantum states&explaintext=1&exsectionformat=wiki
+2025-03-12 17:12:58,034 - Scraped: Neural network quantum states
+2025-03-12 17:12:59,537 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Normalization (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:12:59,928 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Normalization (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:00,852 - Scraped: Normalization (machine learning)
+2025-03-12 17:13:02,354 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Novelty detection&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:02,742 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Novelty detection&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:03,082 - Scraped: Novelty detection
+2025-03-12 17:13:04,584 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Offline learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:04,964 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Offline learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:05,355 - Scraped: Offline learning
+2025-03-12 17:13:06,857 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Overfitting&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:07,288 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Overfitting&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:07,916 - Scraped: Overfitting
+2025-03-12 17:13:09,418 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Paraphrasing (computational linguistics)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:09,861 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Paraphrasing (computational linguistics)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:10,432 - Scraped: Paraphrasing (computational linguistics)
+2025-03-12 17:13:11,934 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Parity learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:12,307 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Parity learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:12,728 - Scraped: Parity learning
+2025-03-12 17:13:14,230 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Pattern language (formal languages)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:14,590 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Pattern language (formal languages)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:14,982 - Scraped: Pattern language (formal languages)
+2025-03-12 17:13:16,484 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Pattern recognition&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:16,902 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Pattern recognition&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:17,468 - Scraped: Pattern recognition
+2025-03-12 17:13:18,969 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Perceiver&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:19,355 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Perceiver&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:19,794 - Scraped: Perceiver
+2025-03-12 17:13:21,296 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=PHerc. Paris. 4&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:21,739 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=PHerc. Paris. 4&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:22,082 - Scraped: PHerc. Paris. 4
+2025-03-12 17:13:23,584 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Phi coefficient&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:23,950 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Phi coefficient&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:24,291 - Scraped: Phi coefficient
+2025-03-12 17:13:25,793 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Predictive learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:26,178 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Predictive learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:26,532 - Scraped: Predictive learning
+2025-03-12 17:13:28,034 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Predictive state representation&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:28,396 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Predictive state representation&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:28,755 - Scraped: Predictive state representation
+2025-03-12 17:13:30,256 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Preference learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:30,638 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Preference learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:31,058 - Scraped: Preference learning
+2025-03-12 17:13:32,560 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Prior knowledge for pattern recognition&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:33,003 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Prior knowledge for pattern recognition&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:33,334 - Scraped: Prior knowledge for pattern recognition
+2025-03-12 17:13:34,836 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Proactive learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:35,247 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Proactive learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:35,686 - Scraped: Proactive learning
+2025-03-12 17:13:37,188 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Proaftn&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:37,612 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Proaftn&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:37,975 - Scraped: Proaftn
+2025-03-12 17:13:39,477 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Probabilistic numerics&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:39,967 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Probabilistic numerics&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:40,587 - Scraped: Probabilistic numerics
+2025-03-12 17:13:42,089 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Probability matching&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:42,490 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Probability matching&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:42,841 - Scraped: Probability matching
+2025-03-12 17:13:44,343 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Product of experts&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:44,780 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Product of experts&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:45,108 - Scraped: Product of experts
+2025-03-12 17:13:46,610 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Programming by example&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:46,972 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Programming by example&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:47,340 - Scraped: Programming by example
+2025-03-12 17:13:48,842 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Prompt engineering&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:49,285 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Prompt engineering&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:49,901 - Scraped: Prompt engineering
+2025-03-12 17:13:51,403 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Proximal gradient methods for learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:51,775 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Proximal gradient methods for learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:52,507 - Scraped: Proximal gradient methods for learning
+2025-03-12 17:13:54,008 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Pythia (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:54,367 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Pythia (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:54,712 - Scraped: Pythia (machine learning)
+2025-03-12 17:13:56,214 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Quantification (machine learning)&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:56,658 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Quantification (machine learning)&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:57,047 - Scraped: Quantification (machine learning)
+2025-03-12 17:13:58,549 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Quantum machine learning&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:13:59,016 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Quantum machine learning&explaintext=1&exsectionformat=wiki
+2025-03-12 17:13:59,834 - Scraped: Quantum machine learning
+2025-03-12 17:14:01,336 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Rabbit r1&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:14:01,720 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Rabbit r1&explaintext=1&exsectionformat=wiki
+2025-03-12 17:14:02,090 - Scraped: Rabbit r1
+2025-03-12 17:14:03,593 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Rademacher complexity&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:14:03,971 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Rademacher complexity&explaintext=1&exsectionformat=wiki
+2025-03-12 17:14:04,432 - Scraped: Rademacher complexity
+2025-03-12 17:14:05,933 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Random feature&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:14:06,296 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Random feature&explaintext=1&exsectionformat=wiki
+2025-03-12 17:14:06,899 - Scraped: Random feature
+2025-03-12 17:14:08,402 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=Reasoning language model&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2025-03-12 17:14:08,843 - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Reasoning language model&explaintext=1&exsectionformat=wiki
+2025-03-12 17:14:09,206 - Scraped: Reasoning language model
+2025-03-12 17:14:10,716 - Saved 200 articles to ml_articles.txt.
