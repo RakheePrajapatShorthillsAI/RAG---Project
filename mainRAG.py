@@ -136,7 +136,7 @@ def qa_pipeline(query):
     print(answer)
     print("\n=== Source Chunks ===")
     print(context[:1500] + "..." if context else "No sources retrieved")
-    return answer, context 
+    return answer  , context 
     
 # ------------------ Usage ------------------
 if __name__ == "__main__":
