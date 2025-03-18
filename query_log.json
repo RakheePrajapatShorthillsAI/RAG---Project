@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2025-03-18 11:01:09",
+        "question": "what is supervised machine learning?",
+        "answer": "Supervised machine learning is a type of machine learning where the algorithm learns from labeled example-input-output pairs, where each example is associated with a correct output value. The goal is to infer a function that maps input features to output values, such as predicting a target variable based on another feature. This type of learning relies on the relationship between the input data and the desired output to construct a mapping or model. Unlike unsupervised learning, which focuses on discovering patterns or relationships within the data without any external guidance, supervised learning requires explicit labeling and feedback to train the algorithm."
+    },
+    {
+        "timestamp": "2025-03-18 11:02:16",
+        "question": "what is unsupervised machine learning?",
+        "answer": "Unsupervised machine learning is a type of machine learning where the algorithm is trained without any explicit labels or instructions on how to solve the problem. Unlike supervised learning, where the algorithm learns from labeled data, unsupervised learning focuses on discovering patterns, relationships, or structures within the data by identifying groups or clusters that are similar or dissimilar to one another. This can involve tasks such as clustering, dimensionality reduction, density estimation, anomaly detection, and more. Without any prior knowledge or guidance, the algorithm relies on statistical methods and algorithms to uncover hidden insights in the data, often resulting in meaningful discoveries that might not have been apparent through other types of analysis."
+    },
+    {
+        "timestamp": "2025-03-18 11:03:36",
+        "question": "what is transformers?",
+        "answer": "Transformers is a type of neural network architecture designed specifically for natural language processing (NLP) tasks, such as text classification, sentiment analysis, and language modeling. It's based on self-attention mechanisms that allow the model to weigh the importance of different input elements when predicting output. This approach enables the model to capture complex relationships between words in a sentence or document, allowing it to better understand nuances of language and generate coherent and context-dependent outputs. By applying attention mechanisms to a sequence of vectors representing words, the Transformer architecture effectively decouplings the representation of tokens from their positions within a sentence, enabling the model to learn hierarchical representations of input sequences."
+    }
+]
