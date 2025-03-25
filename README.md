@@ -41,10 +41,8 @@ python3 -m unittest discover -s tests -p "*.py"
 ![Architecture](architecture.png)
 
 ### Unit Testing Screenshots
-#### 1. Test Case Execution
 ![Unit Test 1](unit_test1.png)
 
-#### 2. Test Summary Output
 ![Unit Test 2](unit_test2.png)
 
 ### Documentation
